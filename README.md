@@ -6,13 +6,13 @@ I am a MERN Stack Developer passionate about building full-stack web application
 
 🤝 Connect With Me
 
-👇 LinkedIn:
+👇 LinkedIn: <br/>
 <a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/">linkedin.com/in/saad-ur-rahman-8b9631406</a>
 
-👇 Email:
+👇 Email: <br/>
 <a href="mailto:saadurr30@gmail.com">saadurr30@gmail.com</a>
 
-👇 Portfolio:
+👇 Portfolio: <br/>
 <a href="https://portfolio-link.com">portfolio-link.com</a>
 
 
