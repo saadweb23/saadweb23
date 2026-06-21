@@ -2,19 +2,18 @@
 I am a MERN Stack Developer passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I enjoy creating scalable, efficient, and user-friendly solutions while continuously improving my development skills through hands-on projects and real-world practice.<br>
 
 
-## 🤝 Connect With Me
+:
 
-<a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+🤝 Connect With Me
 
-<a href="mailto:saadurr30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+👇 LinkedIn:
+<a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/">linkedin.com/in/saad-ur-rahman-8b9631406</a>
 
-<a href="https://portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+👇 Email:
+<a href="mailto:saadurr30@gmail.com">saadurr30@gmail.com</a>
+
+👇 Portfolio:
+<a href="https://portfolio-link.com">portfolio-link.com</a>
 
 
 # 💻 Tech Stack:
