@@ -5,6 +5,24 @@ I am a MERN Stack Developer passionate about building full-stack web application
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ur-rahman-8b9631406/) 
 
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:saadurr30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saadweb23&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 # 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -35,8 +53,35 @@ I am a MERN Stack Developer passionate about building full-stack web application
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
   <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
+
+# 🚀 Current Focus
+
+- Building scalable full-stack web applications
+- Exploring AI integrations and automation
+- Creating performant React & Next.js experiences
+- Learning cloud-native deployment workflows
+
+# 🌟 Featured Projects
+
+- 🔗 Project One — Short description here
+- 🔗 Project Two — Short description here
+- 🔗 Project Three — Short description here
+
+# 💼 What I Do
+
+✔ Frontend Development (React, Next.js, TypeScript)
+
+✔ Backend Development (Node.js, Express.js, GraphQL)
+
+✔ Database Design (MongoDB, PostgreSQL)
+
+✔ Cloud Deployment (AWS, Vercel)
+
+✔ API Development & Integrations
+
+
 # 📊 GitHub Stats:
-## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saadweb23&show_icons=true&theme=dark" height="170" />
