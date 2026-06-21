@@ -1,10 +1,34 @@
-# 💫 About Me:
-I am a MERN Stack Developer passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I enjoy creating scalable, efficient, and user-friendly solutions while continuously improving my development skills through hands-on projects and real-world practice.<br>
+# Hi there, I am Saad Ur Rahman  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+### Full Stack Developer from Pakistan 🇵🇰
 
+---
 
-🤝 Connect With Me
-<div align="left"> <p style="margin: 10px 0;"> 👇 <b>LinkedIn</b><br> <a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/"> linkedin.com/in/saad-ur-rahman-8b9631406 </a> </p> <p style="margin: 10px 0;"> 👇 <b>Email</b><br> <a href="mailto:saadurr30@gmail.com"> saadurr30@gmail.com </a> </p> <p style="margin: 10px 0;"> 👇 <b>Portfolio</b><br> <a href="https://portfolio-link.com"> portfolio-link.com </a> </p> </div>
+## ✅ About Me
+- 💻 Full Stack Developer  
+- 🚀 Passionate about building modern web apps  
+- 🌱 Always learning new technologies  
 
+---
+
+## 📫 How to reach me:
+
+- 🐙 **GitHub:**  
+  https://github.com/saadweb23/
+
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/saad-ur-rahman-8b9631406/
+
+---
+
+## 🏆 Projects:
+
+- 🌐 **Portfolio Website:**  
+  https://portfoliounkown.vercel.app/
+
+---
+
+⭐ Feel free to explore my work and connect with me!
 
 # 💻 Tech Stack:
 <p align="left">
