@@ -2,9 +2,6 @@
 I am a MERN Stack Developer passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I enjoy creating scalable, efficient, and user-friendly solutions while continuously improving my development skills through hands-on projects and real-world practice.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ur-rahman-8b9631406/) 
-
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/saad-ur-rahman-8b9631406/">
@@ -19,9 +16,6 @@ I am a MERN Stack Developer passionate about building full-stack web application
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saadweb23&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 # 💻 Tech Stack:
 <p align="left">
