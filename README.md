@@ -1,17 +1,22 @@
-## Hi there, I am Saad Ur Rahman  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , Full Stack Developer from Pakistan 🇵🇰
+## Hi there, I am Saad Ur Rahman  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , Cloud Data Engineer from Pakistan 🇵🇰
 
-## ✅Full Stack Developer
-
----
-
-## ✅ About Me
-- 💻 Full Stack Developer  
-- 🚀 Passionate about building modern web apps  
-- 🌱 Always learning new technologies  
+## ✅Cloud Data Engineer
 
 ---
 
-## 📫 How to reach me:
+## 👨‍💻 About Me
+
+- ☁️ Cloud Data Engineer focused on building scalable and reliable data solutions
+- 🐍 Working with Python for data processing, automation, and engineering workflows
+- 🗄️ Developing strong skills in SQL, databases, ETL/ELT, and data pipelines
+- ⚡ Exploring PySpark, Apache Kafka, Snowflake, and modern data engineering technologies
+- 🎓 BS Data Science Student at Ziauddin University
+- 📚 Currently developing my Data Engineering skills through Saylani Mass IT Training
+- 🚀 Passionate about turning raw data into reliable, scalable, and useful data systems
+
+---
+
+## 📬 How to Reach Me
 
 - 🐙 **GitHub:**  
   https://github.com/saadweb23/
@@ -21,86 +26,94 @@
 
 ---
 
-## 🏆 Projects:
+## 🧰 Data Engineering Tech Stack
 
-- 🌐 **Portfolio Website:**  
-  https://portfoliounkown.vercel.app/
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-⭐ Feel free to explore my work and connect with me!
+## 🚀 Current Focus
 
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
-  <img src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-</p>
+- 🔄 Building ETL and ELT data pipelines
+- 🐍 Strengthening Python for Data Engineering
+- 🗄️ Advanced SQL and database optimization
+- ⚡ Learning distributed data processing with PySpark
+- 📡 Exploring real-time data streaming with Apache Kafka
+- ❄️ Working with modern cloud data platforms such as Snowflake
+- ☁️ Exploring cloud-based data engineering architectures
+- 🐳 Learning containerized data workflows with Docker
+- 📊 Working with large-scale datasets and data transformation
 
-# 🚀 Current Focus
+---
 
-- Building scalable full-stack web applications
-- Exploring AI integrations and automation
-- Creating performant React & Next.js experiences
-- Learning cloud-native deployment workflows
+## ⭐ Featured Projects
 
-# 🌟 Featured Projects
+- 🔗 **Dataset Generator** — Python-based dataset generation and data handling project
+- 🔗 **Data Analytics Projects** — Data cleaning, transformation, analysis, and visualization
+- 🔗 **Data Engineering Pipelines** — ETL/ELT workflows for processing and transforming data
+- 🔗 **Cloud Data Projects** — Exploring scalable cloud-based data solutions
 
-- 🔗 Project One — Short description here
-- 🔗 Project Two — Short description here
-- 🔗 Project Three — Short description here
+---
 
-# 💼 What I Do
+## 💼 What I Do
 
-✔ Frontend Development (React, Next.js, TypeScript)
+- 🏗️ Data Pipeline Development
+- 🔄 ETL / ELT Development
+- 🐍 Python Data Engineering
+- 🗄️ SQL & Database Management
+- ⚡ Distributed Data Processing
+- 📡 Real-Time Data Streaming
+- ☁️ Cloud Data Engineering
+- ❄️ Modern Data Warehousing
+- 📊 Data Transformation & Processing
 
-✔ Backend Development (Node.js, Express.js, GraphQL)
+---
 
-✔ Database Design (MongoDB, PostgreSQL)
+## 🎯 Career Focus
 
-✔ Cloud Deployment (AWS, Vercel)
+I am building my career in **Data Engineering and Cloud Data Engineering**, with a focus on designing reliable data pipelines, scalable data processing systems, cloud data platforms, and modern data architectures.
 
-✔ API Development & Integrations
+My goal is to continuously improve my technical skills and work on real-world data engineering problems that create measurable business value.
 
+---
 
-# 📊 GitHub Stats:
+## 📚 Currently Learning
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadweb23&show_icons=true&theme=dark" height="170" />
-  <img src="https://streak-stats.demolab.com?user=saadweb23&theme=dark" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadweb23&layout=compact&theme=dark" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadweb23&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+Python
+SQL
+Data Structures & Algorithms
+ETL / ELT
+Data Warehousing
+PySpark
+Apache Kafka
+Snowflake
+Apache Airflow
+Cloud Computing
+Docker
+Data Pipelines
